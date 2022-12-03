@@ -9,7 +9,7 @@ Create development environment that is cloud-based
 
 ### Colab Network
 
-* This is example of how to use [colab] (https://github.com/zamigaliyev/python-for-devops-2022/blob/main/getting_started_python.ipynb)
+* This is example of how to use [colab](https://github.com/zamigaliyev/python-for-devops-2022/blob/main/getting_started_python.ipynb)
 
 ### Github Codespaces
 ### AWS CloudShell
