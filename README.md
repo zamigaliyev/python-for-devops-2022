@@ -16,7 +16,7 @@ Create development environment that is cloud-based
 
 Build out Python project scaffold:
 
-* Makefile
+* [Makefile](https://github.com/noahgift/python-for-devops-may-2022/blob/main/Makefile)
 * requirements.txt
 * test_library.py
 * python_library
